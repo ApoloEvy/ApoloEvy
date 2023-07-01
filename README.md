@@ -3,7 +3,7 @@
   
  > Olá me chamo Apolo, Sou viciado em criar, estou me aprofundando em Html, Css e Js, flerto com c# e React.
   
- 🔭 Meus projetos não são nada oficiais, Mas vivo reconstruindo sites e estudando novad Tecnologias.
+ 🔭 Meus projetos não são nada oficiais, Mas vivo reconstruindo sites e estudando novas Tecnologias.
   
  💬 Fique a vontade pra entrar em contato, sou muito social prometo.
  ---- 
