@@ -1,7 +1,7 @@
  
-## 💜 Olá, meu nome é <strong>Apolo!</strong> 
+## 💜 Olá, meu nome é <strong> Apolo! </strong> 
   
- > Olá me chamo Apolo, Sou viciado em criar, estou me aprofundando em Html, Css e Js, flerto com c# e React.
+ > Olá me chamo Apolo, Sou viciado em criar, estou me aprofundando em Html, Css e Js, flerto com C++.
   
  🔭 Meus projetos não são nada oficiais, Mas vivo reconstruindo sites e estudando novas Tecnologias.
   
